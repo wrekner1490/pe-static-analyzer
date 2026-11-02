@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# Analysis artifacts / samples (do not commit binaries)
+*.exe
+*.dll
+*.report.json
+*_report.json
+sample.exe.report.json
